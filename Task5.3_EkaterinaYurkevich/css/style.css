@@ -46,6 +46,7 @@ body {
     background: rgba(14, 74, 126, 0.70);
     padding-top: 99px;
     padding-bottom: 176px;
+    position: relative;
     z-index: 1;
 }
 
